@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="SimpleTerminal.ppr"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <CursorPos X="41" Y="19"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="SimpleTerminalMainForm.pas"/>
+        <FRMtype Value="200"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmSimpleTerminalMain"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="569"/>
+        <CursorPos X="27" Y="583"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\MiscUtils\PollingFIFO.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="21"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\MiscUtils\SimpleCOM.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="21"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="SimpleTerminalMainForm.pas"/>
+        <Caret Line="108" Column="45" TopLine="93"/>
+      </Position>
+      <Position>
+        <Filename Value="SimpleTerminalMainForm.pas"/>
+        <Caret Line="137" Column="41" TopLine="125"/>
+      </Position>
+      <Position>
+        <Filename Value="SimpleTerminalMainForm.pas"/>
+        <Caret Line="136" Column="41" TopLine="124"/>
+      </Position>
+      <Position>
+        <Filename Value="SimpleTerminalMainForm.pas"/>
+        <Caret Line="605" Column="86" TopLine="594"/>
+      </Position>
+      <Position>
+        <Filename Value="SimpleTerminalMainForm.pas"/>
+        <Caret Line="136" Column="47" TopLine="126"/>
+      </Position>
+      <Position>
+        <Filename Value="SimpleTerminalMainForm.pas"/>
+        <Caret Line="678" Column="61" TopLine="668"/>
+      </Position>
+      <Position>
+        <Filename Value="SimpleTerminalMainForm.pas"/>
+        <Caret Line="676" Column="67" TopLine="667"/>
+      </Position>
+      <Position>
+        <Filename Value="SimpleTerminalMainForm.pas"/>
+        <Caret Line="682" Column="37" TopLine="665"/>
+      </Position>
+      <Position>
+        <Filename Value="SimpleTerminalMainForm.pas"/>
+        <Caret Line="681" Column="37" TopLine="664"/>
+      </Position>
+      <Position>
+        <Filename Value="SimpleTerminalMainForm.pas"/>
+        <Caret Line="680" Column="37" TopLine="663"/>
+      </Position>
+      <Position>
+        <Filename Value="SimpleTerminalMainForm.pas"/>
+        <Caret Line="679" Column="37" TopLine="662"/>
+      </Position>
+      <Position>
+        <Filename Value="SimpleTerminalMainForm.pas"/>
+        <Caret Line="678" Column="37" TopLine="661"/>
+      </Position>
+      <Position>
+        <Filename Value="SimpleTerminalMainForm.pas"/>
+        <Caret Line="677" Column="37" TopLine="660"/>
+      </Position>
+      <Position>
+        <Filename Value="SimpleTerminalMainForm.pas"/>
+        <Caret Line="676" Column="37" TopLine="659"/>
+      </Position>
+      <Position>
+        <Filename Value="SimpleTerminalMainForm.pas"/>
+        <Caret Line="592" Column="47" TopLine="582"/>
+      </Position>
+      <Position>
+        <Filename Value="SimpleTerminalMainForm.pas"/>
+        <Caret Line="167" Column="48" TopLine="154"/>
+      </Position>
+      <Position>
+        <Filename Value="SimpleTerminalMainForm.pas"/>
+        <Caret Line="537" Column="140" TopLine="515"/>
+      </Position>
+      <Position>
+        <Filename Value="SimpleTerminalMainForm.pas"/>
+        <Caret Line="571" Column="98" TopLine="559"/>
+      </Position>
+      <Position>
+        <Filename Value="SimpleTerminalMainForm.pas"/>
+        <Caret Line="79" Column="41" TopLine="66"/>
+      </Position>
+      <Position>
+        <Filename Value="SimpleTerminalMainForm.pas"/>
+        <Caret Line="537" Column="31" TopLine="515"/>
+      </Position>
+      <Position>
+        <Filename Value="SimpleTerminalMainForm.pas"/>
+        <Caret Line="564" Column="44" TopLine="545"/>
+      </Position>
+      <Position>
+        <Filename Value="SimpleTerminalMainForm.pas"/>
+        <Caret Line="738" Column="41" TopLine="726"/>
+      </Position>
+      <Position>
+        <Filename Value="SimpleTerminalMainForm.pas"/>
+        <Caret Line="745" Column="28" TopLine="730"/>
+      </Position>
+      <Position>
+        <Filename Value="SimpleTerminalMainForm.pas"/>
+        <Caret Line="747" Column="59" TopLine="731"/>
+      </Position>
+      <Position>
+        <Filename Value="SimpleTerminalMainForm.pas"/>
+        <Caret Line="728" Column="24" TopLine="723"/>
+      </Position>
+      <Position>
+        <Filename Value="SimpleTerminalMainForm.pas"/>
+        <Caret Line="729" Column="24" TopLine="724"/>
+      </Position>
+      <Position>
+        <Filename Value="SimpleTerminalMainForm.pas"/>
+        <Caret Line="660" Column="76" TopLine="651"/>
+      </Position>
+      <Position>
+        <Filename Value="SimpleTerminalMainForm.pas"/>
+      </Position>
+      <Position>
+        <Filename Value="SimpleTerminalMainForm.pas"/>
+        <Caret Line="532" Column="30" TopLine="520"/>
+      </Position>
+      <Position>
+        <Filename Value="SimpleTerminalMainForm.pas"/>
+        <Caret Line="83" Column="81" TopLine="75"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
